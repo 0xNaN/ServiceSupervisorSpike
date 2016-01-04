@@ -1,0 +1,17 @@
+{application, 'supervisor',
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {'supervisor_app', []}},
+  {applications,
+   [kernel,
+    stdlib,
+    erlexec
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.

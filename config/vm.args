@@ -1,0 +1,6 @@
+-sname supervisor
+
+-setcookie supervisor_cookie
+
++K true
++A30
