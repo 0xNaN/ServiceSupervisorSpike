@@ -1,4 +1,4 @@
-Sercvice Supervisor
+Service Supervisor
 =====
 The aim of this spike is to try to understand how should look an application that allows to deploy an infrastructure defined through a set of services that is capable to resolve dependencies (locally and globally) and monitor the process that owns
 and to responds to events such as process exit. 
